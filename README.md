@@ -17,6 +17,6 @@ Practicing SQL migrations
 
   Start time: 9:30am
 
-  Finish time: 
+  Finish time: 9:45am
 
-  Actual time needed to complete:
+  Actual time needed to complete: 15mins
